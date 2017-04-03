@@ -1,0 +1,143 @@
+03.04.2017 15:15:27: Grey (193.226.7.11:5302) 7b36a6d3b17485f960e7a28c7d572e21 - #46 " createGroup sideLogic;
+BIS_MPF_logic = BIS_MPF_dummygroup createUnit ["Logic", [1000,10,0], [], 0, "NONE"];
+publicVariable "BIS"
+03.04.2017 15:15:30: Grey (193.226.7.11:5302) 7b36a6d3b17485f960e7a28c7d572e21 - #46 " createGroup sideLogic;
+BIS_MPF_logic = BIS_MPF_dummygroup createUnit ["Logic", [1000,10,0], [], 0, "NONE"];
+publicVariable "BIS"
+03.04.2017 15:15:45: Grey (193.226.7.11:5302) 7b36a6d3b17485f960e7a28c7d572e21 - #46 "dGroup);
+
+
+
+
+
+_group = createGroup west;
+_newUnit = _group createUnit [_class,getMarkerPos "respawn_west",[],0,"NONE"];
+_newUnit"
+03.04.2017 15:15:45: Grey (193.226.7.11:5302) 7b36a6d3b17485f960e7a28c7d572e21 - #46 "dGroup);
+
+
+
+
+
+_group = createGroup west;
+_newUnit = _group createUnit [_class,getMarkerPos "respawn_west",[],0,"NONE"];
+_newUnit"
+03.04.2017 15:15:55: Grey (193.226.7.11:5302) 7b36a6d3b17485f960e7a28c7d572e21 - #43 "select 0), (_position select 1), (LHA_height+1)];
+
+_this setVehicleInit "this setVectorUp [0,0,1];";
+';#line 42 "mpmissions\__CU"
+03.04.2017 15:15:55: Grey (193.226.7.11:5302) 7b36a6d3b17485f960e7a28c7d572e21 - #45 "ayer action ["getInCargo",_plane,2];
+_pos = group player addWaypoint [_grid,0];
+[_grid,_plane,_unit,_pos,_haloJump] spawn {
+#lin"
+03.04.2017 15:16:04: Grey (193.226.7.11:5302) 7b36a6d3b17485f960e7a28c7d572e21 - #47 "ker ["atm1", [3649.0173, 8532.2158, -10.050079]];
+_this setMarkerText "Bank Atm";
+_this setMarkerType "Dot";
+_this setMarkerBrus"
+03.04.2017 15:16:04: Grey (193.226.7.11:5302) 7b36a6d3b17485f960e7a28c7d572e21 - #47 " ["SURVIVALIST SERVER RULES", [15102.897, 8550]];
+_this setMarkerText "SURVIVALIST-DAYZ OVERPOCH SERVER RULES";
+_this setMarkerT"
+03.04.2017 15:16:07: Grey (193.226.7.11:5302) 7b36a6d3b17485f960e7a28c7d572e21 - #43 "select 0), (_position select 1), (LHA_height+1)];
+
+_this setVehicleInit "this setVectorUp [0,0,1];";
+';#line 42 "mpmissions\__CU"
+03.04.2017 15:16:07: Grey (193.226.7.11:5302) 7b36a6d3b17485f960e7a28c7d572e21 - #45 "ayer action ["getInCargo",_plane,2];
+_pos = group player addWaypoint [_grid,0];
+[_grid,_plane,_unit,_pos,_haloJump] spawn {
+#lin"
+03.04.2017 15:19:50: vladimir vladimirovich (89.67.63.218:5302) 02ed733403835a8a8517265415d84023 - #46 " createGroup sideLogic;
+BIS_MPF_logic = BIS_MPF_dummygroup createUnit ["Logic", [1000,10,0], [], 0, "NONE"];
+publicVariable "BIS"
+03.04.2017 15:19:54: vladimir vladimirovich (89.67.63.218:5302) 02ed733403835a8a8517265415d84023 - #46 " createGroup sideLogic;
+BIS_MPF_logic = BIS_MPF_dummygroup createUnit ["Logic", [1000,10,0], [], 0, "NONE"];
+publicVariable "BIS"
+03.04.2017 15:19:59: vladimir vladimirovich (89.67.63.218:5302) 02ed733403835a8a8517265415d84023 - #46 " createGroup sideLogic;
+BIS_MPF_logic = BIS_MPF_dummygroup createUnit ["Logic", [1000,10,0], [], 0, "NONE"];
+publicVariable "BIS"
+03.04.2017 15:20:00: Grey (193.226.7.11:5302) 7b36a6d3b17485f960e7a28c7d572e21 - #46 " createGroup sideLogic;
+BIS_MPF_logic = BIS_MPF_dummygroup createUnit ["Logic", [1000,10,0], [], 0, "NONE"];
+publicVariable "BIS"
+03.04.2017 15:20:01: vladimir vladimirovich (89.67.63.218:5302) 02ed733403835a8a8517265415d84023 - #43 "select 0), (_position select 1), (LHA_height+1)];
+
+_this setVehicleInit "this setVectorUp [0,0,1];";
+';#line 42 "mpmissions\__CU"
+03.04.2017 15:20:01: vladimir vladimirovich (89.67.63.218:5302) 02ed733403835a8a8517265415d84023 - #45 "ayer action ["getInCargo",_plane,2];
+_pos = group player addWaypoint [_grid,0];
+[_grid,_plane,_unit,_pos,_haloJump] spawn {
+#lin"
+03.04.2017 15:20:01: vladimir vladimirovich (89.67.63.218:5302) 02ed733403835a8a8517265415d84023 - #46 "dGroup);
+
+
+
+
+
+_group = createGroup west;
+_newUnit = _group createUnit [_class,getMarkerPos "respawn_west",[],0,"NONE"];
+_newUnit"
+03.04.2017 15:20:01: vladimir vladimirovich (89.67.63.218:5302) 02ed733403835a8a8517265415d84023 - #46 "dGroup);
+
+
+
+
+
+_group = createGroup west;
+_newUnit = _group createUnit [_class,getMarkerPos "respawn_west",[],0,"NONE"];
+_newUnit"
+03.04.2017 15:20:02: vladimir vladimirovich (89.67.63.218:5302) 02ed733403835a8a8517265415d84023 - #43 "select 0), (_position select 1), (LHA_height+1)];
+
+_this setVehicleInit "this setVectorUp [0,0,1];";
+';#line 42 "mpmissions\__CU"
+03.04.2017 15:20:02: vladimir vladimirovich (89.67.63.218:5302) 02ed733403835a8a8517265415d84023 - #45 "ayer action ["getInCargo",_plane,2];
+_pos = group player addWaypoint [_grid,0];
+[_grid,_plane,_unit,_pos,_haloJump] spawn {
+#lin"
+03.04.2017 15:20:19: vladimir vladimirovich (89.67.63.218:5302) 02ed733403835a8a8517265415d84023 - #43 "select 0), (_position select 1), (LHA_height+1)];
+
+_this setVehicleInit "this setVectorUp [0,0,1];";
+';#line 42 "mpmissions\__CU"
+03.04.2017 15:20:19: vladimir vladimirovich (89.67.63.218:5302) 02ed733403835a8a8517265415d84023 - #45 "ayer action ["getInCargo",_plane,2];
+_pos = group player addWaypoint [_grid,0];
+[_grid,_plane,_unit,_pos,_haloJump] spawn {
+#lin"
+03.04.2017 15:20:22: vladimir vladimirovich (89.67.63.218:5302) 02ed733403835a8a8517265415d84023 - #47 "ker ["atm1", [3649.0173, 8532.2158, -10.050079]];
+_this setMarkerText "Bank Atm";
+_this setMarkerType "Dot";
+_this setMarkerBrus"
+03.04.2017 15:20:22: vladimir vladimirovich (89.67.63.218:5302) 02ed733403835a8a8517265415d84023 - #47 " ["SURVIVALIST SERVER RULES", [15102.897, 8550]];
+_this setMarkerText "SURVIVALIST-DAYZ OVERPOCH SERVER RULES";
+_this setMarkerT"
+03.04.2017 15:20:22: vladimir vladimirovich (89.67.63.218:5302) 02ed733403835a8a8517265415d84023 - #43 "select 0), (_position select 1), (LHA_height+1)];
+
+_this setVehicleInit "this setVectorUp [0,0,1];";
+';#line 42 "mpmissions\__CU"
+03.04.2017 15:20:22: vladimir vladimirovich (89.67.63.218:5302) 02ed733403835a8a8517265415d84023 - #45 "ayer action ["getInCargo",_plane,2];
+_pos = group player addWaypoint [_grid,0];
+[_grid,_plane,_unit,_pos,_haloJump] spawn {
+#lin"
+03.04.2017 15:20:44: Grey (193.226.7.11:5302) 7b36a6d3b17485f960e7a28c7d572e21 - #46 " createGroup sideLogic;
+BIS_MPF_logic = BIS_MPF_dummygroup createUnit ["Logic", [1000,10,0], [], 0, "NONE"];
+publicVariable "BIS"
+03.04.2017 15:21:20: Grey (193.226.7.11:5302) 7b36a6d3b17485f960e7a28c7d572e21 - #46 " createGroup sideLogic;
+BIS_MPF_logic = BIS_MPF_dummygroup createUnit ["Logic", [1000,10,0], [], 0, "NONE"];
+publicVariable "BIS"
+03.04.2017 15:24:06: Grey (193.226.7.11:5302) 7b36a6d3b17485f960e7a28c7d572e21 - #46 " createGroup sideLogic;
+BIS_MPF_logic = BIS_MPF_dummygroup createUnit ["Logic", [1000,10,0], [], 0, "NONE"];
+publicVariable "BIS"
+03.04.2017 15:25:33: Grey (193.226.7.11:5302) 7b36a6d3b17485f960e7a28c7d572e21 - #46 " createGroup sideLogic;
+BIS_MPF_logic = BIS_MPF_dummygroup createUnit ["Logic", [1000,10,0], [], 0, "NONE"];
+publicVariable "BIS"
+03.04.2017 15:28:52: Grey (193.226.7.11:5302) 7b36a6d3b17485f960e7a28c7d572e21 - #46 " createGroup sideLogic;
+BIS_MPF_logic = BIS_MPF_dummygroup createUnit ["Logic", [1000,10,0], [], 0, "NONE"];
+publicVariable "BIS"
+03.04.2017 15:29:10: Grey (193.226.7.11:5302) 7b36a6d3b17485f960e7a28c7d572e21 - #46 " createGroup sideLogic;
+BIS_MPF_logic = BIS_MPF_dummygroup createUnit ["Logic", [1000,10,0], [], 0, "NONE"];
+publicVariable "BIS"
+03.04.2017 15:31:13: Grey (193.226.7.11:5302) 7b36a6d3b17485f960e7a28c7d572e21 - #46 " createGroup sideLogic;
+BIS_MPF_logic = BIS_MPF_dummygroup createUnit ["Logic", [1000,10,0], [], 0, "NONE"];
+publicVariable "BIS"
+03.04.2017 15:31:21: vladimir vladimirovich (89.67.63.218:5302) 02ed733403835a8a8517265415d84023 - #46 " createGroup sideLogic;
+BIS_MPF_logic = BIS_MPF_dummygroup createUnit ["Logic", [1000,10,0], [], 0, "NONE"];
+publicVariable "BIS"
+03.04.2017 15:33:17: Grey (193.226.7.11:5302) 7b36a6d3b17485f960e7a28c7d572e21 - #46 " createGroup sideLogic;
+BIS_MPF_logic = BIS_MPF_dummygroup createUnit ["Logic", [1000,10,0], [], 0, "NONE"];
+publicVariable "BIS"
